@@ -6,3 +6,6 @@ I have added
 
 I am also practicing on 100-pandas-puzzles. I'll upload the questions only sheet as well as the one with my answers. 
 I did 20 Qns on 29th Apr 25.
+
+
+Alsoo practice the JAVA programs in python.
